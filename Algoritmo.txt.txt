@@ -1,0 +1,6 @@
+Algoritmo numFeliz
+ED:
+
+
+
+Enquanto N....
