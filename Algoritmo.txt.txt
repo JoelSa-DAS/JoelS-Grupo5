@@ -6,4 +6,4 @@ ED:
 Enquanto N....
 
 
-Resultado
+Resultado.
